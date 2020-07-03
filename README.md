@@ -20,6 +20,14 @@ To get start with: [House Prices: Advanced Regression Techniques](https://www.ka
 
 To get start with: [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
 
+## mbti-classification
+
+To get start with: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
+
+## sentiment-analysis-on-movie-reviews
+
+To get start with: [sentiment-analysis-on-movie-reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+
 ---
 
 2019/12 Karl
